@@ -35,7 +35,6 @@ h1 {
     transform: translate(-50%, -50%);
 }
 
-/*Image Container*/
 .image-container{
     margin: 10px 30%;
 }
@@ -45,7 +44,6 @@ h1 {
     margin-top: 5px;
 }
 
-/*Media Query: Large Smartphone*/
 @media screen and (max-width:600px){
 
 h1{
